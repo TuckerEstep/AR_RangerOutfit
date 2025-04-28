@@ -5,9 +5,9 @@ const canvasCtx = canvasElement.getContext('2d');
 
 //loading png images
 const hatImg = new Image();
-hatImg.src = 'ranger_hat.png';
+hatImg.src = 'images/ranger_hat.png';
 const vestImg = new Image();
-vestImg.src = 'ranger_vest.png';
+vestImg.src = 'images/ranger_vest.png';
 
 videoElement.onloadedmetadata = () => {
   const aspectRatio = videoElement.videoWidth / videoElement.videoHeight;
