@@ -15,6 +15,6 @@ How It Works
 
 How to Use
 
-1. Open the website using www.placeholder.com
+1. Open the website using https://tuckerestep.github.io/AR_RangerOutfit/
 2. Allow camera permissions
 3. Step into view
