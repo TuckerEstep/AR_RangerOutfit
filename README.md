@@ -1,4 +1,4 @@
-Ranger AR FILTER Outfi Project for USACE
+Ranger AR Filter Outfit Project for USACE
 
 A real-time AR project that overlays a ranger hat and vest onto a person using their webcam.
 
