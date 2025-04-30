@@ -1,16 +1,16 @@
-Ranger AR Filter Outfit Project for USACE
+Ranger AR Filter Outfit Project - USACE
 
 A real-time AR project that overlays a ranger hat and vest onto a person using their webcam.
 
 Built with:
-- MediaPipe Pose for body tracking
+- MediaPipe Pose for real-time body tracking
 - JavaScript, HTML, and CSS
 - Hosted using GitHub Pages
 
 How It Works
 
-- Captures the webcam feed
-- Detects body landmarks (nose and shoulders)
+- Captures the user's live webcam feed
+- Detects body landmarks (nose and shoulders) using MediaPipe Pose
 - Draws a ranger hat and vest overlay based on the body's position
 
 How to Use
